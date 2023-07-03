@@ -9,7 +9,7 @@ Playing with the basic concepts of Apache Airflow.
 - Airflow 2.4 with CeleryExecutor
 - Elasticsearch
 - Pandas
-- Flake8 and Isort for linting and formatting
+- Flake8 and Isort for linting and formatting (in local dev environment)
 
 ## Usage
 
